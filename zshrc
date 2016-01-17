@@ -35,3 +35,4 @@ export LC_ALL=en_US.UTF-8
 # Bundle editor
 export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
 
+
