@@ -1,17 +1,42 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "DocBlockr",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "Ruby on Rails snippets",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"ERB Snippets",
+		"Floobits",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"GitGutter-Edge",
+		"JSX",
+		"Markdown Preview",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty Ruby",
+		"RuboCop",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"SummitLinter",
+		"Syntax Highlighting for Sass",
+		"Theme - Primer",
+		"Theme - Spacegray"
+	]
 }

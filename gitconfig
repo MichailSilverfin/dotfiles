@@ -37,12 +37,15 @@
 
   # Removes a file from the index
   unstage = reset HEAD --
+	pretty-branch = log --all --graph --decorate --oneline --simplify-by-decoration
+	commiters = shortlog -sn
+	stats = shortlog
 
 [help]
-  autocorrect = 1
+	autocorrect = -1
 
 [push]
-	default = simple
+	default = current
 
 [branch "master"]
   mergeoptions = --no-edit
@@ -53,3 +56,5 @@
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
 	required = true
+[pull]
+	default = current
