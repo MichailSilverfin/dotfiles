@@ -58,3 +58,5 @@
 	required = true
 [pull]
 	default = current
+[init]
+	templatedir = /Users/lien/.git-templates
