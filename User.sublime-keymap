@@ -1,0 +1,6 @@
+[
+ { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+ { "keys": ["super+v"], "command": "paste_and_indent" },
+ { "keys": ["super+shift+v"], "command": "paste" },
+ { "keys": ["super+;"], "command": "find_under_expand" }
+]

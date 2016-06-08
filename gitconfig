@@ -59,4 +59,4 @@
 [pull]
 	default = current
 [init]
-	templatedir = /Users/lien/.git-templates
+	templatedir = ~/.git-templates/
