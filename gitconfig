@@ -60,3 +60,5 @@
 	default = current
 [init]
 	templatedir = ~/.git-templates/
+[commit]
+	gpgsign = true
